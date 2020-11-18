@@ -12,7 +12,6 @@
 
 <div align="center">
     <h3><strong><em>Les prérecquis pour ce Workshop</em></strong></h3>
-    <hr>
     <br> 
 </div>
 <div align="center">
