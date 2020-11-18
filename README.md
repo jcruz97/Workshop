@@ -9,5 +9,5 @@
 </div>
 
 <div align="center">
-    <strong><em>Les prérecquis pour ce Workshop</em></strong> 
+    <h3><strong><em>Les prérecquis pour ce Workshop</em></strong></h3> 
 </div>
