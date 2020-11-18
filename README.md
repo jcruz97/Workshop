@@ -15,9 +15,9 @@
     <br> 
 </div>
 <div align="center">
-    <p>1. La derniere version de composer</p>
-    <p>2. Un serveur Apache* fonctionnel avec PHP 7.3 minimum</p>
-    <p>3. La derniere version de laravel ( composer global require laravel/installer )</p>
+    <li>1. La derniere version de composer</li>
+    <li>2. Un serveur Apache* fonctionnel avec PHP 7.3 minimum</li>
+    <li>3. La derniere version de laravel ( composer global require laravel/installer )</li>
     <p>*serveur apache(WAMP , LAMP , XAMP , LARAGON)</p>
     <br><hr><br>
 </div>
