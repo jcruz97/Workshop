@@ -51,10 +51,15 @@
 </div>
 <br><hr><br>
 
-↪  [Delvaux Robby](https://www.linkedin.com/in/robby-delvaux/)  
+<div align="center">
+
 
 ↪  [Cruz Jurgen](https://github.com/jcruz97)
 
 ↪  [Jacquemart Robin](https://www.linkedin.com/in/robin-jacquemart/)  
 
 ↪  [Slowik Aleksandra](https://www.linkedin.com/in/aleksandra-slowik-dev/)  
+
+↪  [Delvaux Robby](https://www.linkedin.com/in/robby-delvaux/)  
+
+</div>
