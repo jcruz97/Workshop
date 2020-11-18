@@ -9,11 +9,13 @@
 </div>
 
 <div align="center">
-    <h3><strong><em>Les prérecquis pour ce Workshop</em></strong></h3> 
+    <h3><strong><em>Les prérecquis pour ce Workshop</em></strong></h3>
+    <hr>
+    <br> 
 </div>
 <div align="center">
     <p>1. La derniere version de composer</p>
     <p>2. Un serveur Apache* fonctionnel avec PHP 7.3 minimum</p>
     <p>3. La derniere version de laravel ( composer global require laravel/installer )</p>
-    <p>serveur apache(WAMP , LAMP , XAMP , LARAGON)</p>
+    <p>*serveur apache(WAMP , LAMP , XAMP , LARAGON)</p>
 </div>
