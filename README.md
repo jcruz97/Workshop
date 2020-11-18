@@ -23,12 +23,10 @@
 </div>
 <div align="center">
     <h3><strong><em>Le déroulement du Workshop</em></strong></h3>
-    <ol align="center">
         <li>Petite présentation (par notre maitre de ceremonie(Robin)).</li>
         <li>Le projet clé en main (Par Aleks) .</li>
         <li>Entracte de 10 min.</li>
         <li>Becorum (Par Robby & Robin) .</li>
         <li>Entracte de 10 min.</li>
         <li>Démo de quelques composant interessant (Par Jurgen).</li>
-    </ol>
 </div>
