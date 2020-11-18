@@ -19,5 +19,5 @@
     <p>2. Un serveur Apache* fonctionnel avec PHP 7.3 minimum</p>
     <p>3. La derniere version de laravel ( composer global require laravel/installer )</p>
     <p>*serveur apache(WAMP , LAMP , XAMP , LARAGON)</p>
-    <hr><br>
+    <br><hr><br>
 </div>
