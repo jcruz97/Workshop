@@ -65,5 +65,6 @@
 <br><hr><br>
 </div>
 <div align="center">
+    <h3><strong><em>Le final GiF</em></strong></h3>
     <img src="./assets/IMG/giffinal.gif" width="350" height="200">
 </div>
