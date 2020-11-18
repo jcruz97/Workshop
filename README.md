@@ -31,3 +31,11 @@
         <li>Démo de quelques composant interessant (Par Jurgen).</li>
         <br><hr><br>
 </div>
+<div align="center">
+    <h3><strong><em>La presentation (Par Robin)</em></strong></h3>
+    <p>Une présentation sur laravel qui abordera plusieurs points (histoire, les avantages , les inconvénients, les parts de marcher et quelques sites réalisés en laravel)</p>
+</div>
+<div align="center">
+    <h3><strong><em>Le projet clé en main (Par Aleks)</em></strong></h3>
+    <p>Découverte et installation d'une app laravel avec Jetstream(system d'authenfication)</p>
+</div>
