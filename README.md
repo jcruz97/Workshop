@@ -62,7 +62,8 @@
 
 ↪  [Delvaux Robby](https://www.linkedin.com/in/robby-delvaux/)  
 
+<br><hr><br>
 </div>
 <div align="center">
-    <img src="./assets/IMG/giffinal" width="200" height="200">
+    <img src="./assets/IMG/giffinal.gif" width="350" height="200">
 </div>
