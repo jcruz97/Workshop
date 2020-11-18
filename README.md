@@ -52,7 +52,7 @@
 <br><hr><br>
 
 <div align="center">
-
+<h3><strong><em>Nous Contacter :email: </em></strong></h3>
 
 ↪  [Cruz Jurgen](https://github.com/jcruz97)
 
