@@ -37,5 +37,14 @@
 </div>
 <div align="center">
     <h3><strong><em>Le projet clé en main (Par Aleks)</em></strong></h3>
-    <p>Découverte et installation d'une app laravel avec Jetstream(system d'authenfication)</p>
+    <p>Découverte et installation d'une app laravel avec Jetstream(system d'authenfication) et création d'une factory pour créer un Faker (semi live coding)</p>
+</div>
+<div align="center">
+    <h3><strong><em>Le projet Becorum(par Robby & Robin)</em></strong></h3>
+    <p>Il s'agit d'un forum réalisé en laravel nous avons déja fais la base du CRUD pour les Topics,
+    Donc avec vous nous allons tenter d'y rajouter une partie commentaires , un system de réponses aux commentaires et aussi un system de notifications quand quelqu'un repond à un de vos Topics/commentaires </p>
+</div>
+<div align="center">
+    <h3><strong><em>Féstival de packages (par Jurgen)</em></strong></h3>
+    <p>Petit féstival de packages tous plus intéréssant les un que les autres et donc il faut connaitre l'éxistence </p>
 </div>
