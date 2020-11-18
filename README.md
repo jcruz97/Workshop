@@ -49,3 +49,12 @@
     <h3><strong><em>Féstival de packages (par Jurgen)</em></strong></h3>
     <p>Petit féstival de packages tous plus intéréssant les uns que les autres et donc il faut connaitre l'éxistence </p>
 </div>
+<br><hr><br>
+
+↪  [Delvaux Robby](https://www.linkedin.com/in/robby-delvaux/)  
+
+↪  [Cruz Jurgen](https://github.com/jcruz97)
+
+↪  [Jacquemart Robin](https://www.linkedin.com/in/robin-jacquemart/)  
+
+↪  [Slowik Aleksandra](https://www.linkedin.com/in/aleksandra-slowik-dev/)  
