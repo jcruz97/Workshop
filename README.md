@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-    <h3><strong><em>Les prérecquis pour ce Workshop</em></strong></h3>
+    <h2><strong><em>Les prérecquis pour ce Workshop</em></strong></h2>
     <br> 
 </div>
 <div align="center">
@@ -20,4 +20,15 @@
     <p>3. La derniere version de laravel ( composer global require laravel/installer )</p>
     <p>*serveur apache(WAMP , LAMP , XAMP , LARAGON)</p>
     <br><hr><br>
+</div>
+<div align="center">
+    <h3><strong><em>Le déroulement du Workshop</em></strong></h3>
+    <ol>
+        <li>Petite présentation (par notre maitre de ceremonie(Robin)).</li>
+        <li>Le projet clé en main (Par Aleks) .</li>
+        <li>Entracte de 10 min.</li>
+        <li>Becorum (Par Robby & Robin) .</li>
+        <li>Entracte de 10 min.</li>
+        <li>Démo de quelques composant interessant (Par Jurgen).</li>
+    </ol>
 </div>
