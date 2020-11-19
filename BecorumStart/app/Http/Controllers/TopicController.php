@@ -8,8 +8,9 @@ use Illuminate\Http\Request;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Pagination\Paginator;
-use App\Notifications\newCommentPosted;
-use Illuminate\Notifications\DatabaseNotification;
+// use newComment
+// use DatabaseNotif
+
 
 
 class TopicController extends Controller
@@ -73,13 +74,8 @@ class TopicController extends Controller
         return view('topics.show', compact('topic'));
     }
     // Show from NOTIF GET TOPIC FROM ROUTE & NOTIF 
-    public function showFromNotification(Topic $topic ,DatabaseNotification $notification){
-        // dd(Auth::user()->unreadNotifications);
-        // DB::table('notifications')->where('id', $notification->id)->update(['read_at' => 'datetime']);
-        $notification->markAsRead();
-        
-        return view('topics.show', compact('topic'));
-    }
+    //
+    
     /**
      * Show the form for editing the specified resource.
      *
