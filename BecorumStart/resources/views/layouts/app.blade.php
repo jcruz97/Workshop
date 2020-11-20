@@ -16,9 +16,22 @@
             @auth
             {{-- IF AUTH SHOW NOTIFICATIONS & MENU AUTH --}}
                 
+                
                 {{-- AUTH MENU --}}
                     <nav class="nav nav-pills nav-fill justify-content-end pr-5 mr-3 pt-4">
                         
+                        <!-- Notification MENU -->
+                            {{-- <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <!-- User notfi -->
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <!-- Foreach -->
+                            
+                                </div>
+                            </li> --}}
+
+
                             <li class="nav-item dropdown ">
                                 <a class="nav-link dropdown-toggle btn btn-info" data-toggle="dropdown"
                                     href="#" role="button" aria-haspopup="true" aria-expanded="false">
